@@ -1,0 +1,16 @@
+# Ignore common DB and workspace files
+*.db
+*.sqlite
+*.sqlite3
+*.sqlitedb
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs / temp
+*.log
+*.tmp
+*.bak
