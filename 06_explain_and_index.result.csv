@@ -1,0 +1,3 @@
+Step,Note
+1,See EXPLAIN output
+2,Suggested index: CREATE INDEX idx_order_items_order_id ON ecommerce_order_items(order_id);
