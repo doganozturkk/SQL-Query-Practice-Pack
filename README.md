@@ -32,8 +32,8 @@
 
 ## 📌 Overview
 
-SQL Query Practice Pack is a collection of exercises designed to strengthen SQL skills in practical scenarios.  
-The project includes realistic datasets and a structured set of exercises ranging from basic SELECT queries to advanced window functions.
+SQL Query Practice Pack is a collection of exercises designed to strengthen progressive SQL problem-solving skills in practical scenarios.  
+The project includes real-world datasets and a structured set of exercises ranging from basic SELECT queries to advanced window functions.
 
 ---
 
@@ -42,15 +42,23 @@ The project includes realistic datasets and a structured set of exercises rangin
 ```
 SQL-Practice-Pack/
 │
-├── datasets/
 ├── exercises/
-│ ├── level1
-│ ├── level2
-│ ├── level3
-│ ├── level4
-│ ├── level5
-│ └── level6
-├── results/
+│   ├── level_01/
+│   ├── level_02/
+│   ├── level_03/
+│   ├── level_04/
+│   ├── level_05/
+│   └── level_06/
+│
+├── datasets/
+│   ├── ecommerce_categories.csv
+│   ├── ecommerce_customers.csv
+│   ├── ecommerce_order_items.csv
+│   ├── ecommerce_orders.csv
+│   ├── ecommerce_products.csv
+│   ├── hr_employees.csv
+│   └── sales_transactions.csv
+│
 └── README.md
 ```
 
